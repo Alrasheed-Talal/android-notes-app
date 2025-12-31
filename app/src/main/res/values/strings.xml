@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Note AI</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="click_to_login">Login</string>
+    <string name="click_to_register">Create Account</string>
+    <string name="logout">Logout</string>
+    <string name="notes">Notes</string>
+    <string name="add_new_note">Add New Note</string>
+</resources>
